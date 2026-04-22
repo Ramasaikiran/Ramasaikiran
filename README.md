@@ -1,25 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Rama%20Sai%20Kiran%20Medam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%7C%20Node.js%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kiran+;Final+Year+CSE+Student+%40+ACE+Engineering+College;Java+%7C+Node.js+%7C+React+%7C+TypeScript+Developer;Building+AI+Products+with+Claude+API+;Author+of+AI+With+RSK+Newsletter+;Open+to+SDE+%26+AI+Engineer+Roles!+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kiran+;Final+Year+CSE+Student+%40+ACE+Engineering+College;Java+%7C+Node.js+%7C+React+%7C+TypeScript+Developer;Building+AI+Products+with+Claude+API+;Author+of+AI+With+RSK+Newsletter+Open+to+SDE+%26+AI+Engineer+Roles!+" alt="Typing SVG" />
 </div>
 <br/>
 <div align="center">
+    ---
 # 💫 About Me:
 
     String name        = "Rama Sai Kiran Medam";
     String location    = "Hyderabad, India ";
     String degree      = "B.Tech CSE @ ACE Engineering College (2026)";
     double cgpa        = 8.35;
-
     String[] currentlyBuilding = { "Nyaya AI", "The AI With RSk Weekly LinkedIn Newsletter"};
     String[] currentlyLearning = { "System Design", "LLM Fine-tuning", "Advanced TypeScript" };
     String[] interests         = { "AI Products", "Full-Stack SaaS", "Open Source LLM Tools" };
-    String   funFact           = "Built an AI legal platform before graduating college 🚀";
+    String   funFact           = "Built an AI legal platform before graduating college ";
 
     String getGoal() {
-        return "Shipping AI products that solve real problems for real people 🤖";
+        return "Shipping AI products that solve real problems for real people ";
     }
 }
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrsk9588) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramasaikiranmedam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kiran_9588) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramasaikiranm@gmail.com)
@@ -47,7 +48,7 @@ B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.3
 </picture>
 </div>
 ---
-
+🚀 Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -101,8 +102,8 @@ B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.3
 
 ## 🏆 Achievements & Certifications
 - 🥈 Google GenAI Exchange Hackathon - National Semi-Finalist
-- 🥈 OpenAI Buildathon — State Finalist
-- 📜 Java Full-Stack Certification — Wipro TalentNext
+- 🥈 OpenAI Buildathon - State Finalist
+- 📜 Java Full-Stack Certification - Wipro TalentNext
 - ✍️ Author of **AI With RSK**  weekly AI newsletter 500+ subscribers
 
 ---
