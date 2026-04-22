@@ -5,7 +5,6 @@
 <br/>
 <div align="center">
 # 💫 About Me:
-public class RamaSaiKiranMedam {
 
     String name        = "Rama Sai Kiran Medam";
     String location    = "Hyderabad, India ";
@@ -48,7 +47,6 @@ B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.3
 </picture>
 </div>
 ---
-## 🚀 Projects
 
 <table>
   <tr>
