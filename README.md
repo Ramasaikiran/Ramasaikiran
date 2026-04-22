@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on:<br>Nyaya AI  AI legal petition platform. The AI Drop newsletter. Opportunities Cell student brand.<br>I'm looking to collaborate on:<br>AI/ML products. Full-stack SaaS builds. Open source LLM tools. Student-focused EdTech.<br>Fun fact:<br>I built an AI legal platform before graduating college.<br>I'm currently learning:<br>System design. Advanced TypeScript. LLM fine-tuning. Prompt engineering at scale.<br>I'm looking for help with:<br>Landing my first SDE / AI role. Scaling The AI Drop newsletter.<br>Ask me about:<br>Building AI products with Claude API. Legal tech. The Indian startup ecosystem..
+I'm currently working on:<br>Nyaya AI  AI legal petition platform. The AI With RSK Weekly Linkedin newsletter. Opportunities Cell student brand.<br>I'm looking to collaborate on:<br>AI/ML products. Full-stack SaaS builds. Open source LLM tools. Student-focused EdTech.<br>Fun fact:<br>I built an AI legal platform before graduating college.<br>I'm currently learning:<br>System design. Advanced TypeScript. LLM fine-tuning. Prompt engineering at scale.<br>I'm looking for help with:<br>Landing my first SDE / AI role. Scaling The AI Drop newsletter.<br>Ask me about:<br>Building AI products with Claude API. Legal tech. The Indian startup ecosystem..
 
 
 ## 🌐 Socials:
