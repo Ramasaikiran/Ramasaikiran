@@ -1,5 +1,26 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Rama%20Sai%20Kiran%20Medam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%7C%20Node.js%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kiran+;Final+Year+CSE+Student+%40+ACE+Engineering+College;Java+%7C+Node.js+%7C+React+%7C+TypeScript+Developer;Building+AI+Products+with+Claude+API+;Author+of+AI+With+RSK+Newsletter+;Open+to+SDE+%26+AI+Engineer+Roles!+" alt="Typing SVG" />
+</div>
+<br/>
+<div align="center">
 # 💫 About Me:
-I'm currently working on:<br>Nyaya AI — AI legal petition platform. Author of AI With RSK — weekly AI LinkedIn newsletter 500+ subscribers.<br>I'm looking to collaborate on:<br>AI/ML products. Full-stack SaaS builds. Open source LLM tools. Student-focused EdTech.<br>Fun fact:<br>I built an AI legal platform before graduating college.<br>I'm currently learning:<br>System design. Advanced TypeScript. LLM fine-tuning. Prompt engineering at scale.<br>I'm looking for help with:<br>Landing my first SDE / AI role. Author of AI With RSK — weekly AI LinkedIn newsletter 500+ subscribers<br>Ask me about:<br>Building AI products. Legal tech. The Indian startup ecosystem.
+public class RamaSaiKiranMedam {
+
+    String name        = "Rama Sai Kiran Medam";
+    String location    = "Hyderabad, India ";
+    String degree      = "B.Tech CSE @ ACE Engineering College (2026)";
+    double cgpa        = 8.35;
+
+    String[] currentlyBuilding = { "Nyaya AI", "The AI With RSk Weekly LinkedIn Newsletter"};
+    String[] currentlyLearning = { "System Design", "LLM Fine-tuning", "Advanced TypeScript" };
+    String[] interests         = { "AI Products", "Full-Stack SaaS", "Open Source LLM Tools" };
+    String   funFact           = "Built an AI legal platform before graduating college 🚀";
+
+    String getGoal() {
+        return "Shipping AI products that solve real problems for real people 🤖";
+    }
+}
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrsk9588) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramasaikiranmedam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kiran_9588) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramasaikiranm@gmail.com)
@@ -18,34 +39,73 @@ B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.3
 - Performed root-cause analysis on malformed outputs; reduced error recurrence across modules.
 
 ---
-
+🐍 Snake Eating My Contributions
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramasaikiran/Ramasaikiran/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramasaikiran/Ramasaikiran/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ramasaikiran/Ramasaikiran/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+---
 ## 🚀 Projects
 
-**Nyaya AI — Legal Intelligence Platform**
-`Java` `React` `TypeScript` `MySQL` `REST API`
-- Built multi-tier backend supporting 12+ functional modules with RBAC across 3 user types.
-- Implemented JWT-secured REST APIs with clean exception handling — zero unauthorised requests in production.
-
-**Collaborative Task Management System**
-`Java` `MySQL` `REST APIs` `Git`
-- Built backend task engine using Core Java with Collections and multithreading for concurrent processing.
-- Applied OOP principles (inheritance, encapsulation, polymorphism) across service and model layers.
-
-**IdeaAudit — AI Startup Validator**
-`React` `TypeScript` `Claude API`
-- Delivers BUILD / AVOID / PIVOT verdicts on startup ideas using AI analysis.
-
-**NiveshAI — Stock Intelligence Platform**
-`React` `TypeScript` `Firebase` `Gemini API`
-- NSE/BSE stock research platform with AI-powered market insights.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ Nyaya AI</h3>
+      <p><strong>AI Legal Intelligence Platform</strong></p>
+      <p>Full-stack legal platform with AI-powered petition drafting, 12+ case types, 3-role architecture (citizen/lawyer/admin), JWT-secured REST APIs, UPI payment integration & lawyer subscription gating.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 IdeaAudit</h3>
+      <p><strong>AI Startup Idea Validator</strong></p>
+      <p>AI-powered startup validation tool that returns BUILD / AVOID / PIVOT verdicts with market analysis, competitor mapping, and actionable insights for founders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 NiveshAI</h3>
+      <p><strong>Indian Stock Intelligence Platform</strong></p>
+      <p>NSE/BSE stock research platform with AI-powered market insights, real-time data, and intelligent investment analysis for Indian retail investors.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3> Task Management System</h3>
+      <p><strong>Collaborative Backend Engine</strong></p>
+      <p>Backend task management engine using Core Java with Collections and multithreading for concurrent task processing. Clean OOP architecture across service and model layers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Achievements & Certifications
-- 🥈 Google GenAI Exchange Hackathon — National Semi-Finalist
+- 🥈 Google GenAI Exchange Hackathon - National Semi-Finalist
 - 🥈 OpenAI Buildathon — State Finalist
 - 📜 Java Full-Stack Certification — Wipro TalentNext
-- ✍️ Author of **AI With RSK** — weekly AI newsletter · 500+ subscribers
+- ✍️ Author of **AI With RSK**  weekly AI newsletter 500+ subscribers
 
 ---
 
