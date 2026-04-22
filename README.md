@@ -2,15 +2,11 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kiran+Final+Year+CSE+Student+%40+ACE+Engineering+College;Java+%7C+Node.js+%7C+React+%7C+TypeScript+Developer;Building+AI+Products+with+Claude+API+Author+of+AI+With+RSK+Newsletter+Open+to+SDE+%26+AI+Engineer+Roles!+" alt="Typing SVG" />
 </div>
+
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramasaikiranmedam)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramasaikiran)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrsk9588)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kiran_9588)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramasaikiranm@gmail.com)
- 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kiran+👋;Final+Year+CSE+Student+%40+ACE+Engineering+College;Java+%7C+Node.js+%7C+React+%7C+TypeScript+Developer;Building+AI+Products+with+Claude+API+🤖;Author+of+AI+With+RSK+Newsletter+✍️;Open+to+SDE+%26+AI+Engineer+Roles!+💼" alt="Typing SVG" />
 </div>
----
+
  
 ## 👋 About Me
  
@@ -33,22 +29,21 @@ public class RamaSaiKiranMedam {
 }
 ```
  
----
+
  
 ## 🎓 Education
  
 **ACE Engineering College, Hyderabad**
 B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.35 / 10
  
----
+
  
 ## 💼 Experience
  
 **AI Developer Intern — Swecha** *(May 2025 – June 2025)*
 - Debugged backend logic errors across multi-stage inference pipelines.
 - Performed root-cause analysis on malformed outputs; reduced error recurrence across modules.
----
- 
+
 ## 🏅 Achievements & Certifications
  
 - 🥈 **Google GenAI Exchange Hackathon** - National Semi-Finalist
@@ -107,7 +102,7 @@ B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.3
     </td>
   </tr>
 </table>
----
+
  
 ##  Tech Stack
  
@@ -135,18 +130,9 @@ B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.3
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  
----
+
  
-##  Snake Eating My Contributions
- 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramasaikiran/Ramasaikiran/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramasaikiran/Ramasaikiran/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ramasaikiran/Ramasaikiran/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
----
+
  
 ##  GitHub Stats
  
