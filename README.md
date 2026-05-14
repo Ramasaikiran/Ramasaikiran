@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kiran+👋;Final+Year+CSE+Student+%40+ACE+Engineering+College;Java+%7C+Node.js+%7C+React+%7C+TypeScript+Developer;Building+AI+Products+with+Claude+API+🤖;Author+of+AI+With+RSK+Newsletter+✍️;Open+to+SDE+%26+AI+Engineer+Roles!+💼" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rama Sai Kiran+👋;Final+Year+CSE+Student+%40+ACE+Engineering+College;Java+%7C+Node.js+%7C+React+%7C+TypeScript+Developer;Building+AI+Products+with+Claude+API+🤖;Author+of+AI+With+RSK+Newsletter+✍️;Open+to+SDE+%26+AI+Engineer+Roles!+💼" alt="Typing SVG" />
 </div>
 
  
-## 👋 About Me
+##  About Me
  
 ```java
 public class RamaSaiKiranMedam {
@@ -16,7 +16,7 @@ public class RamaSaiKiranMedam {
     String name        = "Rama Sai Kiran Medam";
     String location    = "Hyderabad, India ";
     String degree      = "B.Tech CSE @ ACE Engineering College (2026)";
-    double cgpa        = 8.35;
+    double cgpa        = 8.37;
  
     String[] currentlyBuilding = { "Nyaya AI", "AI With RSK - Weekly LinkedIn Newsletter" };
     String[] currentlyLearning = { "System Design", "LLM Fine-tuning", "Advanced TypeScript" };
