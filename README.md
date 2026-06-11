@@ -16,7 +16,7 @@ public class RamaSaiKiranMedam {
     String name        = "Rama Sai Kiran Medam";
     String location    = "Hyderabad, India ";
     String degree      = "B.Tech CSE @ ACE Engineering College (2026)";
-    double cgpa        = 8.37;
+    double cgpa        = 8.45;
  
     String[] currentlyBuilding = { "Nyaya AI", "AI With RSK - Weekly LinkedIn Newsletter" };
     String[] currentlyLearning = { "System Design", "LLM Fine-tuning", "Advanced TypeScript" };
@@ -35,7 +35,7 @@ public class RamaSaiKiranMedam {
 ## 🎓 Education
  
 **ACE Engineering College, Hyderabad**
-B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.35 / 10
+B.Tech in Computer Science & Engineering · Nov 2022 – April 2026 · CGPA: 8.45 / 10
  
 
  
